@@ -1,6 +1,6 @@
 ```
-your-host.com {
-    tls brandon@zelifcam.net
+grails.workshop.alamotechcollective.com {
+    tls your@email.com
     reverse_proxy localhost:8080 {
         header_up -X-Forwarded-Proto
         header_up Host {host}
