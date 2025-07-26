@@ -1,7 +1,7 @@
 # Grails Development Environment Setup Guide
 
 ## Prerequisites
-- Windows 10/11 or macOS
+- Windows 10/11, macOS, or Linux
 - Internet connection
 - Administrator/sudo access
 
@@ -113,7 +113,7 @@ grails -version
 
 ---
 
-## macOS Setup Instructions
+## macOS / Linux Setup Instructions
 
 ### Step 1: Install SDKMAN
 
