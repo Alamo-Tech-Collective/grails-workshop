@@ -251,6 +251,6 @@ def authorities = springSecurityService.authentication.authorities
 
 ## Resources
 
-- [Spring Security Core Plugin Documentation](https://grails.github.io/grails-spring-security-core/)
+- [Spring Security Core Plugin Documentation](https://apache.github.io/grails-spring-security/6.1.1/index.html)
 - [Spring Security Reference](https://docs.spring.io/spring-security/reference/)
 - [Grails Security Guide](https://docs.grails.org/latest/guide/security.html)
