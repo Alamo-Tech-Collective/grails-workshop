@@ -77,19 +77,6 @@ grails -version
    - Check "Add 'Open Folder as Project'"
 5. Complete the installation
 
-### Step 5: Configure IntelliJ IDEA for Grails
-
-#### Install Grails Plugin (Required)
-
-1. Launch IntelliJ IDEA
-2. On the welcome screen, click **Plugins** (or go to File → Settings → Plugins)
-3. Click on **Marketplace** tab
-4. Search for "Grails" in the marketplace
-5. Find the official **Grails** plugin and click **Install**
-6. Restart IntelliJ IDEA when prompted
-
-**Note**: The Grails plugin is essential for Grails development in IntelliJ IDEA and must be installed from the Plugin Marketplace.
-
 #### Configure WSL2 JDK in IntelliJ:
 
 1. Go to **File → Project Structure → SDKs**
@@ -161,19 +148,6 @@ grails -version
 3. Open the downloaded .dmg file
 4. Drag IntelliJ IDEA to the Applications folder
 5. Open IntelliJ IDEA from Applications
-
-### Step 4: Configure IntelliJ IDEA for Grails
-
-#### Install Grails Plugin (Required)
-
-1. Launch IntelliJ IDEA
-2. On the welcome screen, click **Plugins** (or go to IntelliJ IDEA → Preferences → Plugins)
-3. Click on **Marketplace** tab
-4. Search for "Grails" in the marketplace
-5. Find the official **Grails** plugin and click **Install**
-6. Restart IntelliJ IDEA when prompted
-
-**Note**: The Grails plugin is essential for Grails development in IntelliJ IDEA and must be installed from the Plugin Marketplace.
 
 #### Configure JDK in IntelliJ:
 
