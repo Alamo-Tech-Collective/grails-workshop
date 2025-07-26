@@ -92,3 +92,7 @@ grails:
   codegen:
     defaultPackage: workshop
   profile: web
+spring:
+  h2:
+    console:
+      enabled: true
